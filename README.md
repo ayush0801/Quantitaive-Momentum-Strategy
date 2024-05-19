@@ -98,7 +98,7 @@ By visualizing the returns, you can easily compare the performance of the equal-
 
 The following graph shows the comparison of returns over different timeframes using the 80-20 investment strategy:
 
-![Returns Comparison](https://i.postimg.cc/6pBFBWfY/Untitled.png)
+![Returns Comparison](https://i.postimg.cc/2S9991yx/Untitled.png)
 
 ## Acknowledgements
 
